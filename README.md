@@ -1,2 +1,0 @@
-# SDLAB
-System Design Lab
